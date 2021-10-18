@@ -96,4 +96,10 @@ img#flag {
   .board {
     column-count: 1;
   }
+  .card {
+    width: 80%;
+  }
+  .card span {
+    font-size: 2rem;
+  }
 }
